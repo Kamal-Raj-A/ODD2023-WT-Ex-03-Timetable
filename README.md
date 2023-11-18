@@ -118,3 +118,5 @@ Execute the program
 
 
 # OUPUT
+![image](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-03-Timetable/assets/145742556/1f17d93a-f877-4991-a71e-17e6a2bfca45)
+
