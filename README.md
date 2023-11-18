@@ -117,5 +117,6 @@ Execute the program
 </html>
 
 # OUPUT
-![image](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-03-Timetable/assets/145742556/1f17d93a-f877-4991-a71e-17e6a2bfca45)
+![Exp 3-Time table in web development](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-03-Timetable/assets/145742556/5ea24f90-ffb1-430a-b2b4-dfc7c37f1b68)
+
 
