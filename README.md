@@ -1,18 +1,19 @@
 # Ex-04-Timetable
-## AIM
+# AIM:
 To Write a html webpage page to display your timetable.
 
-# ALGORITHM
-### STEP 1
+# ALGORITHM:
+# STEP 1:
 create a simple table using table tag
-### STEP 2
+# STEP 2:
 Add header row using th tag
-### STEP 3
+# STEP 3:
 Add your timetable
-### STEP 4
+# STEP 4:
 Execute the program
 
-# CODE
+# CODE :
+```
 <!DOCTYPE html>
 <html>
     <head></head>
@@ -115,8 +116,9 @@ Execute the program
     </table>
 </body>
 </html>
-
-# OUPUT
+```
+# OUTPUT:
 ![Exp 3-Time table in web development](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-03-Timetable/assets/145742556/5ea24f90-ffb1-430a-b2b4-dfc7c37f1b68)
 
-
+# RESULT :
+To Write a html webpage page to display my timetable is executed successfully.
